@@ -1,6 +1,6 @@
-// ispisati brojeve od 1 - 90 da ispisu dva ista broja
+// ispisati brojeve od 1 - 99 jeljive sa 11
 
-for(i = 1; i <= 90; i++){
+for(i = 1; i <= 99; i++){
     if(i % 11 == 0){
         console.log(i);
     }
